@@ -14,4 +14,5 @@ Data downloaded on **14 December 2025**.
 | migrationF, migrationM | [11a2 — Internal migration by age (5-year), sex and area, 1990–2024](https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__muutl/statfin_muutl_pxt_11a2.px/)  [11a7 — International migration by age (5-year) and sex, 1990–2024](https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__muutl/statfin_muutl_pxt_11a7.px/)| From 5-year age groups, as of now assuming stable rates within age intervals |
 
 ![Regions of Finland and their population on 31.12.2024](finland_regions_pop.svg)
+**Regions of Finland and their population on 31.12.2024
 
