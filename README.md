@@ -12,9 +12,12 @@ Data downloaded on **14 December 2025**.
 | tfr | [12du — Total fertility rate and gross reproduction rate by region, 1990–2024](https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__synt/statfin_synt_pxt_12du.px/) | |
 | pasfr | [12dq — Live births by sex, age of mother (5-year) and area, 1990–2024](https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__synt/statfin_synt_pxt_12dq.px/) | Calculated from 5-year age groups, using monotone spline in [DemoTools package](https://timriffe.github.io/DemoTools/articles/graduation_with_demotools.html) |
 | migrationF, migrationM | [11a2 — Internal migration by age (5-year), sex and area, 1990–2024](https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__muutl/statfin_muutl_pxt_11a2.px/)  [11a7 — International migration by age (5-year) and sex, 1990–2024](https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__muutl/statfin_muutl_pxt_11a7.px/)| Age- and sex-specific net migration. From 5-year age groups, as of now assuming dividing the numbers equally within age intervals |
-| StatFin_forecast | [14wx -- Population projection 2024: Population according to age and sex by area, 2024-2045]([https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__muutl/statfin_muutl_pxt_11a2.px/](https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__vaenn/statfin_vaenn_pxt_14wx.px/)) | Statistics Finland municipality level population forecast 2024 aggregated to regional level. Not needed but saved in case of users want to compare their forecasts to official forecasts |
+| StatFin_forecast | [14wx -- Population projection 2024: Population according to age and sex by area, 2024-2045](https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__vaenn/statfin_vaenn_pxt_14wx.px/) | Statistics Finland municipality level population forecast 2024, aggregated to regional level. Not needed but saved in case of users want to compare their forecasts to official forecasts |
+
+
 ![Regions of Finland and their population on 31.12.2024](finland_regions_pop.svg)
 **Regions of Finland and their population on 31.12.2024
+
 
 
 
